@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Sameer",
+        "mail-Id":"shkgxhvguv@gmail.com",
+        "number":7681955626
+    },
+    {
+        "id":2,
+        "name":"Jaskaran",
+        "mail-Id":"jhjinvguhby@gmail.com",
+        "number":9815782248
+    },
+    {
+        "id":3,
+        "name":"Sourav",
+        "mail-Id":"gfghgugkj@gmail.com",
+        "number":9915942260
+    },
+    {
+        "id":4,
+        "name":"Aman",
+        "mail-Id":"jbhgbubhyhnb@gmail.com",
+        "number":9716262181
+    },
+    {
+        "id":5,
+        "name":"Jaskaran",
+        "mail-Id":"jhjinvguhby@gmail.com",
+        "number":9815782248
+    }
+]
